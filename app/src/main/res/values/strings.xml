@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">I Todo</string>
+    <string name="addTaskTittle">New Task</string>
+    <string name="changeTask">Edit Task</string>
+</resources>
